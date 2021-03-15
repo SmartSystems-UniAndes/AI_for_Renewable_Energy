@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Artificial Intelligence for Renewable Energy
 
-You can use the [editor on GitHub](https://github.com/SmartSystems-UniAndes/AI_for_Renewable_Energy/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## About
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This page contains a study case of every branch of artificial intelligence for photo-voltaic energy research.
 
-### Markdown
+## Branches and study cases
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Failure Detection
 
-```markdown
-Syntax highlighted code block
+[Study case.](https://github.com/SmartSystems-UniAndes/Failure_Detection_for_PV_Panels) [1](References)
 
-# Header 1
-## Header 2
-### Header 3
+### Solar Radiation Forecasting
 
-- Bulleted
-- List
+[Study case.](https://github.com/SmartSystems-UniAndes/ML_for_Site_Adaptation_and_Solar_Radiation_Forecasting) [2]
 
-1. Numbered
-2. List
+### Site Adaptation
 
-**Bold** and _Italic_ and `Code` text
+[Study case.](https://github.com/SmartSystems-UniAndes/ML_for_Site_Adaptation_and_Solar_Radiation_Forecasting) [3]
 
-[Link](url) and ![Image](src)
-```
+### MPPT Control
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Study case.](https://github.com/SmartSystems-UniAndes/PV_MPPT_Control_Based_on_Reinforcement_Learning) [4]
 
-### Jekyll Themes
+## References
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SmartSystems-UniAndes/AI_for_Renewable_Energy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[1] Espinosa, A. R., Bressan, M., & Giraldo, L. F. (2020). Failure signature classification in solar photovoltaic plants using RGB images and convolutional neural networks. Renewable Energy, 162, 249-256.
+[2] Narvaez, G., Giraldo, L. F., Bressan, M., & Pantoja, A. (2020). Machine learning for site-adaptation and solar radiation forecasting. Renewable Energy.
+[3] Phan, B. C., Lai, Y. C., & Lin, C. E. (2020). A Deep Reinforcement Learning-Based MPPT Control for PV Systems under Partial Shading Condition. Sensors, 20(11), 3039.
