@@ -16,14 +16,16 @@ This page contains a study case of every branch of artificial intelligence for p
 
 ### Site Adaptation
 
-[Study case.](https://github.com/SmartSystems-UniAndes/ML_for_Site_Adaptation_and_Solar_Radiation_Forecasting) [3]
+[Study case.](https://github.com/SmartSystems-UniAndes/ML_for_Site_Adaptation_and_Solar_Radiation_Forecasting) [2]
 
 ### MPPT Control
 
-[Study case.](https://github.com/SmartSystems-UniAndes/PV_MPPT_Control_Based_on_Reinforcement_Learning) [4]
+[Study case.](https://github.com/SmartSystems-UniAndes/PV_MPPT_Control_Based_on_Reinforcement_Learning) [3]
 
 ## References
 
 [1] Espinosa, A. R., Bressan, M., & Giraldo, L. F. (2020). Failure signature classification in solar photovoltaic plants using RGB images and convolutional neural networks. Renewable Energy, 162, 249-256.
+
 [2] Narvaez, G., Giraldo, L. F., Bressan, M., & Pantoja, A. (2020). Machine learning for site-adaptation and solar radiation forecasting. Renewable Energy.
+
 [3] Phan, B. C., Lai, Y. C., & Lin, C. E. (2020). A Deep Reinforcement Learning-Based MPPT Control for PV Systems under Partial Shading Condition. Sensors, 20(11), 3039.
