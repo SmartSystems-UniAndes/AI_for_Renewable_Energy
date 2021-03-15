@@ -12,7 +12,7 @@ This page contains a study case of every branch of artificial intelligence for p
 
 ### Solar Radiation Forecasting
 
-[Study case.](https://github.com/SmartSystems-UniAndes/ML_for_Site_Adaptation_and_Solar_Radiation_Forecasting) [2]
+[Study case.](https://github.com/SmartSystems-UniAndes/Solar_Radiation_Forecasting) [2]
 
 ### Site Adaptation
 
