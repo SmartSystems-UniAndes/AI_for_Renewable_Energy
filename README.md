@@ -8,7 +8,7 @@ This page contains a study case of every branch of artificial intelligence for p
 
 ### Failure Detection
 
-[Study case.](https://github.com/SmartSystems-UniAndes/Failure_Detection_for_PV_Panels) [1](References)
+[Study case.](https://github.com/SmartSystems-UniAndes/Failure_Detection_for_PV_Panels) [1]
 
 ### Solar Radiation Forecasting
 
