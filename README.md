@@ -2,7 +2,7 @@
 
 ## About
 
-This page contains a study case of every branch of artificial intelligence for photo-voltaic energy research.
+...
 
 ## Branches and study cases
 
