@@ -1,9 +1,5 @@
 # Artificial Intelligence for Renewable Energy
 
-## About
-
-...
-
 ## Branches and study cases
 
 ### Failure Detection
