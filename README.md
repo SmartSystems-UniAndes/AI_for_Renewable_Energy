@@ -16,7 +16,7 @@ This page contains a study case of every branch of artificial intelligence for p
 
 ### Site Adaptation
 
-[Study case.](https://github.com/SmartSystems-UniAndes/ML_for_Site_Adaptation_and_Solar_Radiation_Forecasting) [2]
+[Study case.](https://github.com/SmartSystems-UniAndes/Machine_Learning_for_Site_Adaptation) [2]
 
 ### MPPT Control
 
