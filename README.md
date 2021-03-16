@@ -24,8 +24,8 @@ This page contains a study case of every branch of artificial intelligence for p
 
 ## References
 
-[1](https://www.sciencedirect.com/science/article/abs/pii/S0960148120312301) Espinosa, A. R., Bressan, M., & Giraldo, L. F. (2020). Failure signature classification in solar photovoltaic plants using RGB images and convolutional neural networks. Renewable Energy, 162, 249-256.
+[1] Espinosa, A. R., Bressan, M., & Giraldo, L. F. (2020). [Failure signature classification in solar photovoltaic plants using RGB images and convolutional neural networks](https://www.sciencedirect.com/science/article/abs/pii/S0960148120312301). *Renewable Energy, 162*, 249-256.
 
-[2](https://www.sciencedirect.com/science/article/abs/pii/S0960148120318395) Narvaez, G., Giraldo, L. F., Bressan, M., & Pantoja, A. (2020). Machine learning for site-adaptation and solar radiation forecasting. Renewable Energy.
+[2] Narvaez, G., Giraldo, L. F., Bressan, M., & Pantoja, A. (2020). [Machine learning for site-adaptation and solar radiation forecasting](https://www.sciencedirect.com/science/article/abs/pii/S0960148120318395). *Renewable Energy, 167*, 333-342.
 
-[3](https://www.mdpi.com/1424-8220/20/11/3039) Phan, B. C., Lai, Y. C., & Lin, C. E. (2020). A Deep Reinforcement Learning-Based MPPT Control for PV Systems under Partial Shading Condition. Sensors, 20(11), 3039.
+[3] Phan, B. C., Lai, Y. C., & Lin, C. E. (2020). [A Deep Reinforcement Learning-Based MPPT Control for PV Systems under Partial Shading Condition](https://www.mdpi.com/1424-8220/20/11/3039). *Sensors, 20(11)*, 3039.
