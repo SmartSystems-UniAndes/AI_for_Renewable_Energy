@@ -4,7 +4,7 @@
 
 ## Branches and study cases
 
-### Failure Detection
+### Fault Detection and Classification
 
 [Study case.](https://github.com/SmartSystems-UniAndes/Failure_Detection_for_PV_Panels) [1]
 
