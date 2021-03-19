@@ -1,5 +1,7 @@
 # Artificial Intelligence for Renewable Energy
 
+![Branches](Branches.PNG)
+
 ## Branches and study cases
 
 ### Failure Detection
