@@ -1,4 +1,4 @@
-# Artificial Intelligence for Renewable Energy
+# Machine and Deep Learning for Solar Photovoltaic Systems
 
 ![Branches](Branches.PNG)
 
