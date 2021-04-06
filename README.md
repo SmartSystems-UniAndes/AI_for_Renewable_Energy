@@ -24,6 +24,10 @@
 
 [Study case.](https://github.com/SmartSystems-UniAndes/Islanding_Detection) [4]
 
+### Management - City Learning
+
+[Study case.](https://github.com/SmartSystems-UniAndes/Management_City_Learning) 
+
 ## References
 
 [1] Espinosa, A. R., Bressan, M., & Giraldo, L. F. (2020). [Failure signature classification in solar photovoltaic plants using RGB images and convolutional neural networks](https://www.sciencedirect.com/science/article/abs/pii/S0960148120312301). *Renewable Energy, 162*, 249-256.
