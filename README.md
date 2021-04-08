@@ -38,9 +38,9 @@
 
 [4] Manikonda, S. K., & Gaonkar, D. N. (2019). [IDM based on image classification with CNN](https://www.semanticscholar.org/paper/IDM-based-on-image-classification-with-CNN-Manikonda-Gaonkar/3094cf9ebe9af980ef97d5e326e0dfa690897b15). The Journal of Engineering, 2019(10), 7256-7262.
 
-[5] Kathirgamanathan, A., Twardowski, K., Mangina, E., & Finn, D. P. (2020, November). *A Centralised Soft Actor Critic 
-Deep Reinforcement Learning Approach to District Demand Side Management through CityLearn*. In Proceedings of the 1st 
+[5] Kathirgamanathan, A., Twardowski, K., Mangina, E., & Finn, D. P. (2020, November). [A Centralised Soft Actor Critic 
+Deep Reinforcement Learning Approach to District Demand Side Management through CityLearn](https://arxiv.org/pdf/2009.10562.pdf). In Proceedings of the 1st 
 International Workshop on Reinforcement Learning for Energy Management in Buildings & Cities (pp. 11-14).
 
-[6] Vazquez-Canteli, J. R., Dey, S., Henze, G., & Nagy, Z. (2020). *CityLearn: Standardizing Research in Multi-Agent
-Reinforcement Learning for Demand Response and Urban Energy Management*. arXiv preprint arXiv:2012.10504.
+[6] Vazquez-Canteli, J. R., Dey, S., Henze, G., & Nagy, Z. (2020). [CityLearn: Standardizing Research in Multi-Agent
+Reinforcement Learning for Demand Response and Urban Energy Management](https://arxiv.org/ftp/arxiv/papers/2012/2012.10504.pdf). arXiv preprint arXiv:2012.10504.
