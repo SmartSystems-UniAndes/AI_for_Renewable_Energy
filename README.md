@@ -26,7 +26,7 @@
 
 ### Management - City Learning
 
-[Study case.](https://github.com/SmartSystems-UniAndes/Management_City_Learning) 
+[Study case.](https://github.com/SmartSystems-UniAndes/Management_City_Learning) [5, 6]
 
 ## References
 
@@ -37,3 +37,10 @@
 [3] Phan, B. C., Lai, Y. C., & Lin, C. E. (2020). [A Deep Reinforcement Learning-Based MPPT Control for PV Systems under Partial Shading Condition](https://www.mdpi.com/1424-8220/20/11/3039). *Sensors, 20(11)*, 3039.
 
 [4] Manikonda, S. K., & Gaonkar, D. N. (2019). [IDM based on image classification with CNN](https://www.semanticscholar.org/paper/IDM-based-on-image-classification-with-CNN-Manikonda-Gaonkar/3094cf9ebe9af980ef97d5e326e0dfa690897b15). The Journal of Engineering, 2019(10), 7256-7262.
+
+[5] Kathirgamanathan, A., Twardowski, K., Mangina, E., & Finn, D. P. (2020, November). *A Centralised Soft Actor Critic 
+Deep Reinforcement Learning Approach to District Demand Side Management through CityLearn*. In Proceedings of the 1st 
+International Workshop on Reinforcement Learning for Energy Management in Buildings & Cities (pp. 11-14).
+
+[6] Vazquez-Canteli, J. R., Dey, S., Henze, G., & Nagy, Z. (2020). *CityLearn: Standardizing Research in Multi-Agent
+Reinforcement Learning for Demand Response and Urban Energy Management*. arXiv preprint arXiv:2012.10504.
