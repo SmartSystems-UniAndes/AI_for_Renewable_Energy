@@ -30,7 +30,7 @@
 
 ### Sizing
 
-[Study case.](https://github.com/SmartSystems-UniAndes/Sizing_Study_Case)
+[Study case.](https://github.com/SmartSystems-UniAndes/Sizing_DeepLabV3_Semantic_Segmentation) [7]
 
 ## References
 
@@ -48,3 +48,5 @@ International Workshop on Reinforcement Learning for Energy Management in Buildi
 
 [6] Vazquez-Canteli, J. R., Dey, S., Henze, G., & Nagy, Z. (2020). [CityLearn: Standardizing Research in Multi-Agent
 Reinforcement Learning for Demand Response and Urban Energy Management](https://arxiv.org/ftp/arxiv/papers/2012/2012.10504.pdf). arXiv preprint arXiv:2012.10504.
+
+[7] Malof, J. M., Li, B., Huang, B., Bradbury, K., & Stretslov, A. (2019). [Mapping solar array location, size, and capacity using deep learning and overhead imagery](https://arxiv.org/ftp/arxiv/papers/1902/1902.10895.pdf). arXiv preprint arXiv:1902.10895.
