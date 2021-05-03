@@ -6,31 +6,31 @@
 
 ### Fault Detection and Classification
 
-[Study case.](https://github.com/SmartSystems-UniAndes/Failure_Detection_for_PV_Panels) [1]
+[Case study.](https://github.com/SmartSystems-UniAndes/Failure_Detection_for_PV_Panels) [1]
 
 ### Solar Radiation Forecasting
 
-[Study case.](https://github.com/SmartSystems-UniAndes/Solar_Radiation_Forecasting) [2]
+[Case study.](https://github.com/SmartSystems-UniAndes/Solar_Radiation_Forecasting) [2]
 
 ### Site Adaptation
 
-[Study case.](https://github.com/SmartSystems-UniAndes/Machine_Learning_for_Site_Adaptation) [2]
+[Case study.](https://github.com/SmartSystems-UniAndes/Machine_Learning_for_Site_Adaptation) [2]
 
 ### MPPT Control
 
-[Study case.](https://github.com/SmartSystems-UniAndes/PV_MPPT_Control_Based_on_Reinforcement_Learning) [3]
+[Case study.](https://github.com/SmartSystems-UniAndes/PV_MPPT_Control_Based_on_Reinforcement_Learning) [3]
 
 ### Islanding Detection
 
-[Study case.](https://github.com/SmartSystems-UniAndes/Islanding_Detection) [4]
+[Case study.](https://github.com/SmartSystems-UniAndes/Islanding_Detection) [4]
 
 ### Management - City Learning
 
-[Study case.](https://github.com/SmartSystems-UniAndes/Management_City_Learning) [5, 6]
+[Case study.](https://github.com/SmartSystems-UniAndes/Management_City_Learning) [5, 6]
 
 ### Sizing
 
-[Study case.](https://github.com/SmartSystems-UniAndes/Sizing_DeepLabV3_Semantic_Segmentation) [7]
+[Case study.](https://github.com/SmartSystems-UniAndes/Sizing_DeepLabV3_Semantic_Segmentation) [7]
 
 ## References
 
